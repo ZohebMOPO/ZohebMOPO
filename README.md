@@ -2,7 +2,7 @@
 
 **Skills**:
 
-![React](https://img.icons8.com/officel/16/000000/react.png)
+![React](<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>)
 ![Golang](https://i.postimg.cc/PfZTpkxC/golang-gopher-src-logo-icon-168154.png)
 ![Python](https://img.icons8.com/dusk/64/000000/python.png)
 ![JavaScript](https://img.icons8.com/dusk/64/000000/javascript-logo.png)
