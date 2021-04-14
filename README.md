@@ -10,5 +10,8 @@
 ![CSS](https://img.icons8.com/dusk/64/000000/css3.png)
 ![BootStrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
-**Handles**
-[**LinkendIn**](https://www.linkedin.com/in/zoheb-khan-4417101b9/) | [**Devpost**](https://devpost.com/ZohebMOPO)
+**Handles**:
+
+
+[**LinkendIn**](https://www.linkedin.com/in/zoheb-khan-4417101b9/) 
+[**Devpost**](https://devpost.com/ZohebMOPO)
