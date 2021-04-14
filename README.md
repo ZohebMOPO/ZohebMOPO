@@ -2,5 +2,10 @@
 
 **Skills**:
 
-![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png)
-[![ezgif-com-gif-maker.gif](https://i.postimg.cc/NjkWYJLP/ezgif-com-gif-maker.gif)](https://postimg.cc/qNgmxGs8)
+![React](https://img.icons8.com/officel/16/000000/react.png)
+![Golang](https://i.postimg.cc/PfZTpkxC/golang-gopher-src-logo-icon-168154.png)
+![Python](https://img.icons8.com/dusk/64/000000/python.png)
+![JavaScript](https://img.icons8.com/dusk/64/000000/javascript-logo.png)
+![HTML](https://img.icons8.com/dusk/64/000000/html-5.png)
+![CSS](https://img.icons8.com/dusk/64/000000/css3.png)
+![BootStrap](https://img.icons8.com/color/48/000000/bootstrap.png)
