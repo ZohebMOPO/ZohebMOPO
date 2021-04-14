@@ -2,5 +2,5 @@
 
 **Skills**:
 
-![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)
+![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-23-1174949.png)
 [![ezgif-com-gif-maker.gif](https://i.postimg.cc/NjkWYJLP/ezgif-com-gif-maker.gif)](https://postimg.cc/qNgmxGs8)
