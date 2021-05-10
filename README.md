@@ -12,6 +12,6 @@
 
 **Handles**:
 
-
+[**Discord**](https://discord.gg/epnSb4MU)
 [**LinkendIn**](https://www.linkedin.com/in/zoheb-khan-4417101b9/) 
 [**Devpost**](https://devpost.com/ZohebMOPO)
