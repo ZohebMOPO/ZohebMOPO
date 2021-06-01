@@ -1,17 +1,5 @@
-[![Avatar-Maker.png](https://i.postimg.cc/nLh604Tj/Avatar-Maker.png)](https://postimg.cc/QFv4MW2h)
+## Hey There! 👨‍💻
 
-**Skills**:
+I am Zoheb Khan, an HS sophomore in India. I love Reacting(⚛️) and Expressing(ExpressJS has no emoji LOL) and to store my data I use 🐘 (PostgreSQL).
 
-![React](https://img.icons8.com/plasticine/100/000000/react.png)
-![Golang](https://i.postimg.cc/PfZTpkxC/golang-gopher-src-logo-icon-168154.png)
-![Python](https://img.icons8.com/dusk/64/000000/python.png)
-![JavaScript](https://img.icons8.com/dusk/64/000000/javascript-logo.png)
-![HTML](https://img.icons8.com/dusk/64/000000/html-5.png)
-![CSS](https://img.icons8.com/dusk/64/000000/css3.png)
-![BootStrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-
-**Handles**:
-
-[**Discord**](https://discord.gg/epnSb4MU)
-[**LinkendIn**](https://www.linkedin.com/in/zoheb-khan-4417101b9/) 
-[**Devpost**](https://devpost.com/ZohebMOPO)
+[![Zoheb Khan](https://github-readme-stats.vercel.app/api?username=ZohebMOPO)](https://github.com/anuraghazra/github-readme-stats)
