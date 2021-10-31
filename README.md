@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Zoheb Khan
 #### an HS sophomore in India.
-![an HS sophomore in India.](https://pbs.twimg.com/profile_banners/1375146830321741827/1619454459/1500x500)
 
 
 Skills: NODEJS/ EXPRESSJS/ PSQL / REACT / JS / HTML / CSS
