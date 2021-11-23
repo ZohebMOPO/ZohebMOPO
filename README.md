@@ -4,7 +4,7 @@
 
 Skills: NODEJS/ EXPRESSJS/ PSQL / REACT / JS / HTML / CSS
 
-- 😄 Pronouns: He/His/Him 
+- 😄 Pronouns: any(genderfluid)
 
 I am Zoheb Khan, an HS sophomore in India. I love Reacting ⚛️  and Expressing(ExpressJS has no emoji LOL) and to store my data I use 🐘 (PostgreSQL).
 
