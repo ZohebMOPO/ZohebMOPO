@@ -4,6 +4,9 @@
 
 I am Zoheb Khan, an HS sophomore in India. I love Reacting ⚛️ and Expressing(ExpressJS has no emoji LOL) and to store my data I use 🐘 (PostgreSQL).
 
+Like my work? Donate here:
+Solana - `3YtXWkR4zDwRSFZLUeVEtPpfoFh6CTJmqGnuCnvaG2Wt`
+Ethereum - `0x5978c4D976Ab9ABcED4532Ab428bb09eE4958692`
 
 
 Skills: NODEJS/ EXPRESSJS/ PSQL / REACT / JS / HTML / CSS / GRAPHQL/ GO/ TYPESCRIPT/ AND MANY I DON"T WANNA WRITE ANYMORE
