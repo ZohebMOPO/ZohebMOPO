@@ -2,7 +2,7 @@
 #### rising junior in India
 ![rising junior in India](https://pbs.twimg.com/profile_banners/1375146830321741827/1634719180/1500x500)
 
-I am Zoheb Khan, an HS sophomore in India. I love Reacting ⚛️ and Expressing(ExpressJS has no emoji LOL) and to store my data I use 🐘 (PostgreSQL).
+I am Zoheb Khan, an HS junior in India. I love Reacting ⚛️ and Expressing(ExpressJS has no emoji LOL) and to store my data I use 🐘 (PostgreSQL).
 
 Like my work? Donate here:
 
